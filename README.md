@@ -1,4 +1,4 @@
-# Movie-App-Netflix- erge
+# Movie-App-Netflix- 
 
 Netflix, Inc. is an American subscription streaming service and production company. Launched on August 29, 1997, it offers a film and television series library through distribution deals as well as its own productions, known as Netflix Originals.
 
